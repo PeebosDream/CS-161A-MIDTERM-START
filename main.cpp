@@ -10,14 +10,14 @@
 // Chapter: NONE MIDTERM WEEK
 
 // ------------- DESIGN DOCUMENT -------------
-// A. INPUT [yes/no]:
-// B. OUTPUT [yes/no]:
-// C. CALCULATIONS [yes/no]:
-// D. LOGIC and ALGORITHMS [yes/no]:
+// A. INPUT [yes/no]: yes
+// B. OUTPUT [yes/no]: yes
+// C. CALCULATIONS [yes/no]: yes
+// D. LOGIC and ALGORITHMS [yes/no]: at bottom of file
 //    (Optional) flow chart link or file name:
 
 // ------------- TESTING -------------
-// PASS ALL GIVEN SAMPLE RUN TESTS [yes/no]:
+// PASS ALL GIVEN SAMPLE RUN TESTS [yes/no]: yes
 // (Optional) Additional tests count:
 
 // ------------- CODE -------------
@@ -237,13 +237,35 @@ Design:
 A. INPUT
 Define the input variables including name data type.
 
+  string p1_name 
+  string p2_name 
+  string p3_name 
+
+  int p1_count 
+  int p2_count  
+  int p3_count  
+
 B. OUTPUT
 Define the output variables including data types.
+
+  string p1_name 
+  string p2_name 
+  string p3_name 
+
+  int p1_count
+  int p2_count
+  int p3_count
+
+  string first_name 
+  string second_name 
+  string third_name 
 
 C. CALCULATIONS
 Describe calculations used by algorithms in step D.
 List all formulas.
 If there are no calculations needed, state there are no calculations.
+
+p1_count + p2_count + p3_count / 3.0
 
 D. LOGIC and ALGORITHMS
 Design the logic of your program using pseudocode or flowcharts.
