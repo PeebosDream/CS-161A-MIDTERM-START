@@ -1,9 +1,11 @@
 // ------------- FILE HEADER -------------
-// Author:
-// Assignment:
-// Date:
-// Description:
-// Sources:
+// Author: Phoenix Morgan
+// Assignment: Midterm Exam
+// Date: 10/26/25
+// Description: This program collects the names and rock counts of three players,
+// then calculates the average number of rocks collected 
+// and determines the rankings of the players, handling ties appropriately.
+// Sources: zybooks, class notes, C++ documentation
 
 // ------------- ZYBOOKS SCORES -------------
 // https://learn.zybooks.com/zybook/PCCCS161ASummer25
